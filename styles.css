@@ -1,0 +1,9 @@
+body{
+    background-image: url('3.jpg');
+    background-repeat:no-repeat;
+    background-size:1700px 800px
+}
+.completed span{
+  text-decoration: line-through;
+  color: gray;
+}
